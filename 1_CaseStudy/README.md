@@ -16,15 +16,19 @@
 
 ### Block Diagram:
 
+![WhatsApp Image 2022-02-20 at 19 11 52](https://user-images.githubusercontent.com/98829310/154845508-6225691e-3e1c-4aea-a44b-54fa5aa80b2d.jpeg)
+
+
 ### Requirements:
 
 #### Low level requirements:
     1. Power Supply
     2. Evaporator
     3. Condenser
+    4. Motor
 
 #### High level requirements:
-    1. Microcontroller
+    1. Microcontroller (HC908KX8)
     2. Temperature Control
     3. LED Display
     
