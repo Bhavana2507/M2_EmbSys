@@ -1,20 +1,19 @@
 ## Table of Contents
-1. About the DIGITAL VOLTMETER CIRCUIT
-    i. Description
-    ii. Identifying features
-    iii. State of art
-    iv. 5W's & 1H and S.W.O.T analysis
+ ### DIGITAL VOLTMETER CIRCUIT
+1. Description
+2. Identifying features
+3. State of art
+4. 5W's & 1H and S.W.O.T analysis
 
-2. Requirements
-    i. High level requirements
-    ii. Low level requirements
+ ### Requirements
+5. High level requirements
+6. Low level requirements
 
-3. Block Diagram and Blocks explination
-    i. Block Diagram
-    ii. Micro controller and memory
-    iii.Sub-system and others
-
-4. Application
+ ### Block Diagram and Blocks explination
+7. Block Diagram
+8. Micro controller and memory
+9. Sub-system and others
+10. Application
 
 ## About the DIGITAL VOLTMETER CIRCUIT
 
