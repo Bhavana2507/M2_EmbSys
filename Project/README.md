@@ -19,7 +19,7 @@
 
 ### Description:
     
-    Digital Voltmeter is a voltage sensitive device. It measures AC or DC voltage and displays the value directly in numeric form instead of pointer deflection. DVM is an acronym for Digital Voltmeter. DVM was first invented in 1954 by Andrew Kay. There exist many factors that affect the measurement accuracy of a digital voltmeter (DVM).Voltmeter is an electrical measuring instrument which is used to measure potential difference between two points. The voltage to be measured may be AC or DC. Two types of voltmeters are available for the purpose of voltage measurement i.e. analog and digital.
+Digital Voltmeter is a voltage sensitive device. It measures AC or DC voltage and displays the value directly in numeric form instead of pointer deflection. DVM is an acronym for Digital Voltmeter. DVM was first invented in 1954 by Andrew Kay. There exist many factors that affect the measurement accuracy of a digital voltmeter (DVM).Voltmeter is an electrical measuring instrument which is used to measure potential difference between two points. The voltage to be measured may be AC or DC. Two types of voltmeters are available for the purpose of voltage measurement i.e. analog and digital.
 
 
 ### 2. Requirements:
