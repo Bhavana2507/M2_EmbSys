@@ -35,7 +35,7 @@ Digital Voltmeter is a voltage sensitive device. It measures AC or DC voltage an
 * A voltmeter could be used to measure the voltage of the plug; If it is not around 120 V, then the plug could be damaged.
 * Another use is to determine if a battery is charged or discharged. When a car does not start, you can measure the voltage of the battery with a voltmeter to see if the problem is there.
 
-##### 4. 5W's & 1H and S.W.O.T analysis
+#### 4. 5W's & 1H and S.W.O.T analysis
 
 #### SWOT
 
@@ -80,9 +80,9 @@ Commercial and household purposes.
 ##### HOW:
 The required potential difference is measured with the help of multiple voltage divider circuits
 
-### 5. Requirements:
+#### 5. Requirements:
 
-#### -> High Level Requirements:
+##### -> High Level Requirements:
 
 ID  | Description
 ------------- | -------------
@@ -91,12 +91,23 @@ HLR02  | It shall require a power supply of +5V
 HLR03  | It shall require a 10bit ADC
 HLR04  | It shall require Status and selection registers
 
-#### -> Low Level Requirements:
+##### -> Low Level Requirements:
 
 ID  | Description | Status
 ------------- | ------------- | -------------
 LLR01  | Whenever power supply is given | Displays potential difference
 LLR02  | Voltage divider circuits | To increase the required input voltage
-LLR03  | If input is fed as 25 volts | Output is displayed as 5volts 
+LLR03  | If input is fed as 25 volts | Output is displayed as 5volts
 
+#### Block Diagram and Blocks explination
 
+##### Block Diagram:
+
+##### Microcontroller and Memory:
+
+###### Atmega32:
+
+* The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016).
+* It has a modified Harvard architecture 8-bit RISC processor core.
+* The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software-selectable power-saving modes. The device operates between 1.8 and 5.5 volts. 
+* The device achieves throughput approaching 1 MIPS/MHz.
