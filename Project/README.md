@@ -103,6 +103,8 @@ LLR03  | If input is fed as 25 volts | Output is displayed as 5volts
 
 ##### Block Diagram:
 
+![WhatsApp Image 2022-02-26 at 15 24 33](https://user-images.githubusercontent.com/98829310/155838716-047e69fe-f8d1-4f7d-8221-88c5e4b41082.jpeg)
+
 ##### Microcontroller and Memory:
 
 ###### Atmega32:
