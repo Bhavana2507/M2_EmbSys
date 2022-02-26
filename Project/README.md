@@ -80,9 +80,9 @@ Commercial and household purposes.
 ##### HOW:
 The required potential difference is measured with the help of multiple voltage divider circuits
 
-### 2. Requirements:
+### 5. Requirements:
 
-#### 2.1 High Level Requirements:
+#### -> High Level Requirements:
 
 ID  | Description
 ------------- | -------------
@@ -91,7 +91,7 @@ HLR02  | It shall require a power supply of +5V
 HLR03  | It shall require a 10bit ADC
 HLR04  | It shall require Status and selection registers
 
-#### 2.2 Low Level Requirements:
+#### -> Low Level Requirements:
 
 ID  | Description | Status
 ------------- | ------------- | -------------
