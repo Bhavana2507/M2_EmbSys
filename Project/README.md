@@ -12,8 +12,8 @@
  ### Block Diagram and Blocks explination
 7. Block Diagram
 8. Micro controller and memory
-9. Sub-system and others
-10. Application
+9. Application 
+10. References
 
 ## About the DIGITAL VOLTMETER CIRCUIT
 
@@ -127,3 +127,11 @@ Voltage divider (also known as a potential divider) is a passive linear circuit 
 * It has a modified Harvard architecture 8-bit RISC processor core.
 * The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software-selectable power-saving modes. The device operates between 1.8 and 5.5 volts. 
 * The device achieves throughput approaching 1 MIPS/MHz.
+
+#### 9. Applications:
+* Digital Voltmeter is used to know the actual voltage of different components.
+* DVM is widely used to check if there is power in the circuit, such as mains outlet.
+* Knowing the voltage across a circuit, current can be calculated.
+
+#### 10. References:
+[CIRCUIT DIGEST](https://circuitdigest.com/microcontroller-projects/digital-voltmeter-using-avr-atmega32)
