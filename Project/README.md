@@ -105,6 +105,20 @@ LLR03  | If input is fed as 25 volts | Output is displayed as 5volts
 
 ![WhatsApp Image 2022-02-26 at 15 24 33](https://user-images.githubusercontent.com/98829310/155838716-047e69fe-f8d1-4f7d-8221-88c5e4b41082.jpeg)
 
+###### COMPONENTS:
+
+###### Atmega32:
+
+The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core.
+
+###### Voltage Divider Circuit:
+
+Voltage divider (also known as a potential divider) is a passive linear circuit that produces an output voltage (Vₒᵤₜ) that is a fraction of its input voltage (Vᵢₙ).
+
+###### LCD Display:
+
+16×2 LCD is a 32 digits display screen for all kinds of CMOS/TTL devices. This word comes from the liquid crystal and 16X2 represents its screen size. In Liquid crystal display 16×2, there are 2 rows and 16 columns.
+
 ##### Microcontroller and Memory:
 
 ###### Atmega32:
